@@ -13,6 +13,7 @@
     <type fullname="Core.ShadowSettings" preserve="all" />
     <type fullname="Project.Camera.Settings.CameraSettings" preserve="all" />
     <type fullname="Project.Dev.Scripts.Upgrades.Settings.UpgradeSettings" preserve="all" />
+    <type fullname="Project.Runner.Fx.ConfettiFx" preserve="all" />
     <type fullname="Project.Runner.Movement.Settings.MovementSettings" preserve="all" />
     <type fullname="Project.Runner.Units.ActivatableUnit" preserve="all" />
     <type fullname="Project.Runner.Units.BossUnit" preserve="all" />
@@ -57,7 +58,12 @@
     <type fullname="UnityEngine.Object" preserve="all" />
     <type fullname="UnityEngine.Shader" preserve="all" />
     <type fullname="UnityEngine.SkinnedMeshRenderer" preserve="all" />
+    <type fullname="UnityEngine.Texture2D" preserve="all" />
     <type fullname="UnityEngine.Transform" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.ParticleSystemModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.ParticleSystem" preserve="all" />
+    <type fullname="UnityEngine.ParticleSystemRenderer" preserve="all" />
   </assembly>
   <assembly fullname="UnityEngine.PhysicsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.CapsuleCollider" preserve="all" />
